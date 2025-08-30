@@ -1,0 +1,5 @@
+Sitio web (GitHub Pages):
+https://hrtax30.github.io/corte1-binning-web/
+
+Repositorio:
+https://github.com/hrtax30/corte1-binning-web
